@@ -1,0 +1,11 @@
+#!/bin/bash
+
+mkdir -p /var/rpm/6.8
+cd /var/rpm/
+
+yes | cp -r /var/cache/yum/x86_64/ 6.8
+
+repomanage -o 6.8 |xargs rm -f
+createrepo --update 6.8
+
+

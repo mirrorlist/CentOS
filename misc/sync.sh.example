@@ -1,0 +1,7 @@
+#!/bin/bash
+
+reposync -c mirror.repo -q -e tmp
+
+rm -r tmp
+
+createrepo --update repo/

@@ -1,0 +1,4 @@
+#!/bin/bash
+
+fpm -s python -t rpm --python-package-name-prefix glances
+fpm -s python -t rpm --python-package-name-prefix psutil

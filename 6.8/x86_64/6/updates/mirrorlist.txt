@@ -1,0 +1,10 @@
+http://mirror.w2k.ch/centos/6.8/updates/x86_64/
+http://mirror.ibcp.fr/pub/Centos/6.8/updates/x86_64/
+http://ftp.rezopole.net/centos/6.8/updates/x86_64/
+http://distrib-coffee.ipsl.jussieu.fr/pub/linux/centos/6.8/updates/x86_64/
+http://centos.mirror.ate.info/6.8/updates/x86_64/
+http://ftp.ciril.fr/pub/linux/centos/6.8/updates/x86_64/
+http://fr2.rpmfind.net/linux/centos/6.8/updates/x86_64/
+http://mirror1.evolution-host.com/centos/6.8/updates/x86_64/
+http://centos.mirror.fr.planethoster.net/6.8/updates/x86_64/
+http://mirror.in2p3.fr/linux/CentOS/6.8/updates/x86_64/

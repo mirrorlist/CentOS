@@ -1,0 +1,10 @@
+http://mir01.syntis.net/CentOS/6.8/os/x86_64/
+http://mirror.plusserver.com/centos/6.8/os/x86_64/
+http://mirrors.atosworldline.com/public/centos/6.8/os/x86_64/
+http://fr.mirror.babylon.network/centos/6.8/os/x86_64/
+http://centos.crazyfrogs.org/6.8/os/x86_64/
+http://centos.mirror.fr.planethoster.net/6.8/os/x86_64/
+http://ftp.pasteur.fr/mirrors/CentOS/6.8/os/x86_64/
+http://distrib-coffee.ipsl.jussieu.fr/pub/linux/centos/6.8/os/x86_64/
+http://centos.quelquesmots.fr/6.8/os/x86_64/
+http://ftp.rezopole.net/centos/6.8/os/x86_64/
