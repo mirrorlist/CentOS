@@ -1,0 +1,4 @@
+[mirror]
+gpgcheck=0
+name = Red Hat Linux $releasever - $basearch - mirror
+baseurl=https://mirrorlist.github.io/centos/6.8/
