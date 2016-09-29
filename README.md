@@ -1,5 +1,3 @@
-# Centos repo
-
 ## Usage
 
 Add `/etc/yum.repos.d/mirror.repo`
