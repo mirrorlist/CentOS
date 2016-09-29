@@ -1,13 +1,13 @@
-#Centos repo
+# Centos repo
 
 ## Usage
 
-Add `/etc/yum.repos.d/github.repo`
+Add `/etc/yum.repos.d/mirror.repo`
 
 ```ini
-[github]
+[mirror]
 gpgcheck=0
-name = Red Hat Linux $releasever - $basearch - GitHub
+name = Red Hat Linux $releasever - $basearch - mirror
 baseurl=https://mirrorlist.github.io/centos/6.8/
 ```
 
